@@ -37,4 +37,25 @@ public class GlobalExceptionHandler {
                 "error", message
         );
     }
+
+    @ExceptionHandler(RateLimitExceededException.class)
+    @ResponseStatus(HttpStatus.TOO_MANY_REQUESTS)
+    public Map<String, String> handleRateLimitExceeded(
+            RateLimitExceededException ex
+    ) {
+        return Map.of(
+                "error", ex.getMessage()
+        );
+    }
+
+    @ExceptionHandler(UrlNotFoundException.class)
+    @ResponseStatus(HttpStatus.NOT_FOUND)
+    public Map<String, String> handleUrlNotFound(
+            UrlNotFoundException ex
+    ) {
+        return Map.of(
+                "error", ex.getMessage()
+        );
+    }
+
 }

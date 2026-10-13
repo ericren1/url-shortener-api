@@ -7,9 +7,11 @@ C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\ur
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\entity\Url.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\exception\GlobalExceptionHandler.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\exception\InvalidUrlException.java
+C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\exception\RateLimitExceededException.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\exception\UrlNotFoundException.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\repository\ClickEventRepository.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\repository\UrlRepository.java
+C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\service\RateLimitService.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\service\UrlCacheService.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\service\UrlService.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\UrlShortenerApiApplication.java
