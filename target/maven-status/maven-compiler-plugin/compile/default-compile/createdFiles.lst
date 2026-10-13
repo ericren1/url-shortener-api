@@ -2,6 +2,7 @@ com\ericren\urlshortener\entity\ClickEvent.class
 com\ericren\urlshortener\repository\ClickEventRepository.class
 com\ericren\urlshortener\dto\CreateUrlRequest.class
 com\ericren\urlshortener\util\UrlValidator.class
+com\ericren\urlshortener\dto\UrlAnalyticsResponse.class
 com\ericren\urlshortener\dto\CreateUrlResponse.class
 com\ericren\urlshortener\entity\Url.class
 com\ericren\urlshortener\service\UrlService.class

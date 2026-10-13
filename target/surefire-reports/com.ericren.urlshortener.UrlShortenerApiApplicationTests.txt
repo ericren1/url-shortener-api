@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ericren.urlshortener.UrlShortenerApiApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.870 s -- in com.ericren.urlshortener.UrlShortenerApiApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.886 s -- in com.ericren.urlshortener.UrlShortenerApiApplicationTests

@@ -2,6 +2,7 @@ C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\ur
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\controller\UrlController.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\dto\CreateUrlRequest.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\dto\CreateUrlResponse.java
+C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\dto\UrlAnalyticsResponse.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\entity\ClickEvent.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\entity\Url.java
 C:\Users\ericr\Documents\Projects\url-shortener-api\src\main\java\com\ericren\urlshortener\exception\GlobalExceptionHandler.java
