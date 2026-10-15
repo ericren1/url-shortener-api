@@ -1,1 +1,3 @@
+com\ericren\urlshortener\controller\RedirectControllerTest.class
+com\ericren\urlshortener\service\UrlServiceTest.class
 com\ericren\urlshortener\UrlShortenerApiApplicationTests.class
